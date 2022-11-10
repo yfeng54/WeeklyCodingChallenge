@@ -1,0 +1,15 @@
+E:\Revature\WeeklyCodingChallenge\11-08-22\bin\Debug\net6.0\11-08-22.exe
+E:\Revature\WeeklyCodingChallenge\11-08-22\bin\Debug\net6.0\11-08-22.deps.json
+E:\Revature\WeeklyCodingChallenge\11-08-22\bin\Debug\net6.0\11-08-22.runtimeconfig.json
+E:\Revature\WeeklyCodingChallenge\11-08-22\bin\Debug\net6.0\11-08-22.dll
+E:\Revature\WeeklyCodingChallenge\11-08-22\bin\Debug\net6.0\11-08-22.pdb
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.csproj.AssemblyReference.cache
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.GeneratedMSBuildEditorConfig.editorconfig
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.AssemblyInfoInputs.cache
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.AssemblyInfo.cs
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.csproj.CoreCompileInputs.cache
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.dll
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\refint\11-08-22.dll
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.pdb
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\11-08-22.genruntimeconfig.cache
+E:\Revature\WeeklyCodingChallenge\11-08-22\obj\Debug\net6.0\ref\11-08-22.dll
